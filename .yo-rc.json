@@ -44,6 +44,9 @@
     "clientPackageManager": "npm",
     "languages": ["en", "fr"],
     "lastLiquibaseTimestamp": 1629889515000,
-    "entities": ["Customer", "Blog", "Entry", "Tag"]
+    "entities": ["Customer", "Blog", "Entry", "Tag"],
+    "herokuAppName": "jhipster-app-demo-blogs",
+    "herokuDeployType": "git",
+    "herokuJavaVersion": "11"
   }
 }
