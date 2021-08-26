@@ -1,0 +1,18 @@
+{
+  "fields": [
+    {
+      "fieldName": "create",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "manager",
+      "fieldType": "String"
+    }
+  ],
+  "relationships": [],
+  "service": "no",
+  "readOnly": true,
+  "pagination": "no",
+  "name": "Customer",
+  "changelogDate": "20210825015028"
+}
